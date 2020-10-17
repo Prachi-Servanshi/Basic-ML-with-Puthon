@@ -1,1 +1,1 @@
-# Basic-ML-with-Puthon
+# Basic-ML-with-Python
